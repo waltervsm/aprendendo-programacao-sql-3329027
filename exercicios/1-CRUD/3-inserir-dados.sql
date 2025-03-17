@@ -10,6 +10,6 @@ VALUES
 
 
 -- Insira 1 nova classe salarial, sem declarar o atributo id_salario
-INSERT INTO salario_classe(nivel, salario)
+INSERT INTO salario_geral(nivel, salario)
 VALUES
 (11000, 'IT staff');
